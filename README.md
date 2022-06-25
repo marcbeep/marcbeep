@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marc (@marcbeep)
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: marcbeep@gmail.com
+- 🌱 I’m currently a CS Student at the Uni of Liverpool
+- 📫 How to reach me: hi@marcbeep.com
 
 <!---
 marcbeep/marcbeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

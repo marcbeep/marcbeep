@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Marc Beepath (@marcbeep)
 * 🌱 I’m a Computer Science Student at the University of Liverpool.
-* 📊 Currently, I focus on full stack development and data analysis.
+* 📊 I'm a fullstack developer & data scientist.
 * 📫 You can check out my [Website](https://marcbeep.com), connect with me on [LinkedIn](https://linkedin.com/in/marcbeep) or send me an [Email](mailto:marcbeep@gmail.com)!
 
 ## 📈 My GitHub Stats
